@@ -33,7 +33,7 @@ MaxIterations = 2500;        % Maximum number of iterations
 ## 2. Map Parameters
 searchSize = [250 250 250];  % 3D map dimensions [x y z]
 
-## License
+# License
 This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
 
 # Maintenance
