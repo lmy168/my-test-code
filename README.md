@@ -34,7 +34,7 @@ MaxIterations = 2500;        % Maximum number of iterations
 searchSize = [250 250 250];  % 3D map dimensions [x y z]
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
 
 # Maintenance
 We aim to generalize PC-RRT to broader applications and further improve its code robustness in future work.
