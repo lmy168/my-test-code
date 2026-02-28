@@ -35,6 +35,8 @@ searchSize = [250 250 250];  % 搜索范围/地图尺寸
 
 # 致谢
 
+## License
+The source code is released under the [MIT License](LICENSE) license.
 
 # Maintaince
 我们将努力扩展PC-RRT*的适用范围并提高代码的可靠性。
