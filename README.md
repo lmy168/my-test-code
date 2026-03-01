@@ -29,13 +29,13 @@ Execute the main script main9 or main12.
 # Parameter Settings
 
 ## 1. Basic Parameters
-GoalThreshold = 30;          % Set goal threshold
-Delta = 10;                   % Set expansion step size
-RadiusForNeib = 40;          % Rewiring range, radius r
-MaxIterations = 2500;        % Maximum number of iterations
+GoalThreshold = 30;            % Set goal threshold
+Delta = 10;                    % Set expansion step size
+RadiusForNeib = 40;            % Rewiring range, radius r
+MaxIterations = 2500;          % Maximum number of iterations
 
 ## 2. Map Parameters
-searchSize = [250 250 250];  % 3D map dimensions [x y z]
+searchSize = [250 250 250];    % 3D map dimensions [x y z]
 
 # License
 This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
