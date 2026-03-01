@@ -10,6 +10,7 @@ MATLAB R2016a or later.
 
 # File Structure
 |Filename|Description|
+|-|-|
 |main9.m | Main program entry for obstacle environment 1|
 main9_1.m                 # Main entry for environment 1 (unfitted and fitted curves in separate figures)
 main9_2.m                 # Main entry for environment 1 (unfitted and fitted curves in the same figure)
